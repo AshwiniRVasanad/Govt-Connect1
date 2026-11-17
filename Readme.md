@@ -9,14 +9,20 @@ Govt Connect AI is a web-based platform designed to make government schemes and 
 ## 📸 Project Preview
 
 ### 🔐 Login & Authentication
-![Login Page](assets/login.png)
+
+![Login Page](./assets/login.png)
+
+---
 
 ### 👤 Citizen Portal
-![User Portal](assets/user-portal.png)
+
+![User Portal](./assets/user-portal.png)
+
+---
 
 ### 🏛️ Government Schemes
-![Government Schemes](assets/Schemes.png)
 
+![Government Schemes](./assets/Schemes.png)
 ---
 
 ## ✨ Key Features
